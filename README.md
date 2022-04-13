@@ -1,2 +1,2 @@
-# Course-Django-producthunt-clone
+# Producthunt-clone
 Tried to make a product hunt clone with Django
